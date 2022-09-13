@@ -1,2 +1,2 @@
 # Kaggle
-Kaggle Projects
+Repo for Kaggle Projects
